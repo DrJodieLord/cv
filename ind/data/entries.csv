@@ -1,0 +1,35 @@
+﻿Where in your CV this entry belongs,Main title of the entry,Location the entry occured,Primary institution affiliation for entry,Start date of entry (year),"End year of entry. Set to ""current"" if entry is still ongoing.","Each description column is a separate bullet point for the entry. If you need more description bullet points simply add a new column with title ""description_{4,5,..}""",,,A filter variable that is used to decide if entry is in the smaller resume.
+section,title,loc,institution,start,end,description_1,description_2,description_3,in_resume
+education,"PhD, Biostatistics and Health Informatics",King's College London,,2018,2022,Core themes: Prediction modelling  |  Causal inference  |  Omics  |  Big data,"Publications available to view via my [Google Scholar](https://scholar.google.co.uk/
+citations?hl=en&user=NeZqCwkAAAAJ) page",,TRUE
+education,"MSc, Statistical Modelling and Health Informatics (Distinction, 88%)",King's College London,,2019,2021,"Module grades:
+<ul>
+<li>Research Thesis: 93%  |  Maching Learning: 98%</li>
+<li>Statistical Programming: 96%  |  Prediction Modelling: 88%</li> 
+<li>Longitudinal Modelling: 83%  |  Causal Modelling: 76%</li>
+<li>Clinical Trials: 85%  |  Structural Equation Modelling: 70%</li>
+</ul>",,,TRUE
+education,"MSc, Neuroscience (Distinction, 78%)",King's College London,,2017,2018,,,,TRUE
+education,"BSc, Psychology (1st, 73%)",University of Exeter,,2010,2013,,,,TRUE
+research_positions,Research Associate & Statistician,King's College London,"London, UK",2021,,Working collaboratively with the multidisciplinary research team. Focussing primarily on the statistical components of clinical trials and the development of trials-based methodology.,,,TRUE
+industry_positions,Product Owner ,AIMIA,"London, UK",2016,2017,"Reporting into the Product Director, key responsibilities included:
+<ul>
+<li>Driving the development of a global analytics platform, from concept to delivery.</li>
+<li>Owning the developmental backlog; defining and prioritising scope.</li>
+<li>Feature sign off.</li> 
+<li>Daily standups to monitor and celebrate progress within sprints.</li>
+<li>Communicating updates to stakeholders.</li>
+<li>Liasing with teams across the business to inform requirements.</li>
+<li>Working alongside six developers and four test analysts in bi-weekly sprints.</li>
+<li>Communicating risk, progress, and providing direction on the overall sprint goal.</li>
+</ul>",,,TRUE
+industry_positions,Business Analyst / Product Consultant,Financial Express,"London, UK",2015,2016,"Driving the development of a productised web-based platform, managing elements similar to the product owner role cited above.","Within this role I was also responsible for creating and maintaining product specifications, training of new team members, and for aiding pre-sales support through the provision of gap analyses, product demos and attendence at client meetings. ",,TRUE
+research_positions,Graduate Teaching Assistant,King's College London,"London, UK",2018,2021,"Module lead for the ‘Big Data Analytics in Python’ mini-module. Teaching materials are openly accessible via my [github
+](https://github.com/jodielord/python_teaching_material). ","Teaching assistant in research methods modules and [R 
+workshops](https://jodielord.netlify.app/Intro_R.pdf).",,TRUE
+industry_positions,Account Manager,Financial Express,"London, UK",2013,2015,,,,TRUE
+challenges,"[DPUK Datathon
+](https://twitter.com/JodieLord5/status/1332261618596638721)",Dementias Platform UK,Remote,,2020,Project produced: Predicting latent cognitive trajectories in the English Longitudinal Study of Ageing using SEM and cluster-based algorithms.,,,TRUE
+challenges,"[TidyTuesday weekly social data challenge
+](https://github.com/jodielord/TidyTuesdays)",R for Data Science,Remote,2020,2022,A weekly social data challenge conducted using R and the tidyverse.,A number of entries produced across both 2020 and 2022,"Output and code for latest entry available at: [github.com/jodielord/TidyTuesdays/2022/2022-Feb-
+dog_breeds](https://github.com/jodielord/TidyTuesdays/tree/master/2022/2022-Feb-dog_breeds)",TRUE
